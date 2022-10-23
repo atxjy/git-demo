@@ -8,3 +8,4 @@ hello atxjy! hello git!
 hello atxjy! hello git!
 hello atxjy! hello git!   master test
 hello atxjy! hello git!   hot-fix test
+hello atxjy! hello git!   github
